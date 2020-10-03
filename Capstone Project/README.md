@@ -1,28 +1,27 @@
-<h1><i> Machine-Learning-Engineer-Nanodegree-Capstone-Project</i></h1>
+ Machine-Learning-Engineer-Nanodegree-Capstone-Project
  Dataset download link for fashion MNIST dataset
   https://github.com/zalandoresearch/fashion-mnist
-<h2> For Completion of the project following python libraries are required</h2>
-<h3><p>
- <i>Numpy</i>,
- <br>
- <i>Scipy,</i>
- <br>
- <i>Tensorflow,</i>
- <br>
- <i>Flask,</i>
- <br>
- <i>Pandas,</i>
- <br>
- <i>Matplotlib,</i>
- <br>
- <i>Opencv,</i>
- <br>
- <i>Keras,</i>
- <br>
- <i>Seaborn,</i>
- <br>
- <i>Scikit-Learn,</i>
- <br>
- <i>Subprocess.</i>
- </p></h3>
+ For Completion of the project following python libraries are required</h2>
+
+ Numpy,
+ 
+ Scipy,
+
+ Tensorflow,
+ 
+ Flask,
+ 
+ Pandas,
+ 
+ Matplotlib,
+ 
+ Opencv,
+ 
+ Keras,
+ 
+ Seaborn,
+ 
+ Scikit-Learn,
+ 
+ Subprocess.
   
