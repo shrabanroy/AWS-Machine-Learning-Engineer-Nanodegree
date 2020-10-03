@@ -1,4 +1,4 @@
-<h1><i> AWS-Machine-Learning-Engineer-Nanodegree-Capstone-Project</i></h1>
+<h1><i> Machine-Learning-Engineer-Nanodegree-Capstone-Project</i></h1>
  Dataset download link for fashion MNIST dataset
   https://github.com/zalandoresearch/fashion-mnist
 <h2> For Completion of the project following python libraries are required</h2>
